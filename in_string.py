@@ -1,5 +1,4 @@
 def check_vowels():
-    def check_vowels():
     name = input("Ingrese un Nombre: ")
     name = name.lower()
     print("Contiene a:", "a" in name )
